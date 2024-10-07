@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts />
+    <Ignored />
+    <Breakpoints>
+        <KeyValueItem>
+            <Key>G:\Primo Tests\Test1\Applications\Chrome\DownloadFiles.ltw</Key>
+            <Value>05a4e7fa-a073-4e7c-9eae-4142b4436903</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>G:\Primo Tests\Test_DownloadZips\Applications\Chrome\DownloadFiles.ltw</Key>
+            <Value>05a4e7fa-a073-4e7c-9eae-4142b4436903</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>G:\Primo Tests\Test_rpa\Applications\Chrome\CheckNews.ltw</Key>
+            <Value>2b5eb368-58e8-466b-a974-5b9336fd055f</Value>
+        </KeyValueItem>
+    </Breakpoints>
+    <BreakpointLines />
+    <Git />
+    <LastOpenedItems>
+        <string>G:\Primo Tests\Test1\Main.ltw</string>
+        <string>G:\Primo Tests\Test1\Applications\Chrome\DownloadFiles.ltw</string>
+        <string>G:\Primo Tests\Test1\Applications\Chrome\ExtractLinks.ltw</string>
+        <string>G:\Primo Tests\Test_DownloadZips\Main.ltw</string>
+        <string>G:\Primo Tests\Test_DownloadZips\Applications\Chrome\DownloadFiles.ltw</string>
+        <string>G:\Primo Tests\Test_DownloadZips\Applications\Chrome\ExtractLinks.ltw</string>
+        <string>G:\Primo Tests\Test_rpa\Main.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>
